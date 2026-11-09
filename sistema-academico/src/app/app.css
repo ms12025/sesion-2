@@ -1,0 +1,19 @@
+.contenedor { 
+font-family: Arial, sans-serif; 
+padding: 30px; 
+max-width: 900px; 
+margin: auto; 
+} 
+.encabezado { 
+background-color: #1d4ed8; 
+color: white; 
+padding: 25px; 
+border-radius: 10px; 
+} 
+.contenido { 
+margin-top: 25px; 
+padding: 20px; 
+background-color: #f1f5f9; 
+border-radius: 10px; 
+} 
+h1 { margin-top: 0; } 
